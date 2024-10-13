@@ -62,7 +62,7 @@ body{
     width: 100%;
     height: 96px;
 
-    background-image: url(./../img/header/header-bottom.svg);
+    background-image: url(./img/header/header-bottom.svg);
     background-size: 100%;
 }
 
@@ -107,7 +107,7 @@ body{
     width: 830px;
     height: 622px;
 
-    background-image: url("./../img/header/header_elements.svg");
+    background-image: url("./img/header/header_elements.svg");
     pointer-events: none;
 
 }
